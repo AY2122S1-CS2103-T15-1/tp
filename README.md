@@ -1,6 +1,6 @@
 [![CI Status](https://github.com/AY2122S1-CS2103T-T15-1/tp/workflows/Java%20CI/badge.svg)](https://github.com/AY2122S1-CS2103T-T15-1/tp/actions)
 
-# About GoMedic
+# TESTING TELEBOT
 GoMedic is a desktop application designed for doctors and medical residents to manage contacts and patient details.
 We aim GoMedic to be used by someone who can type fast and take advantage of the optimized features for
 Command Line Interface.
